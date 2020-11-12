@@ -1,0 +1,11 @@
+node_modules/
+/package-lock.json
+/.env
+env.js
+nodeEnv.js
+.cache
+.bak
+stdout.log
+stderr.log
+.firebase/
+firebase-debug.log
